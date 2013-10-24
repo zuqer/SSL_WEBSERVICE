@@ -1,4 +1,4 @@
-SSL_WEBSERVICE
+SSL WEBSERVICE CONSUMER
 ==============
 
 Example for POST Web service +SSL
